@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeff96/unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeff96/unit-testing/issues"
+  },
+  "homepage": "https://github.com/zeff96/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
